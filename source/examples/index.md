@@ -86,6 +86,11 @@ links:
       url: https://www.bfdz.ink/
       avatar: https://www.bfdz.ink/favicon.png
       tags: [Linux,BT]      
+    - name: Tabris
+      url: http://tabris.top/
+      avatar: https://cdn.jsdelivr.net/gh/tabris233/cdn-assets/avatar/avatar.jpg
+      tags: [Linux,CPP,伪码农]      
+      
   - group: '版本：^2.0～2.4'
     desc: 导航栏 N 级菜单；新增 Tab、Note、Menu 标签
     items:
